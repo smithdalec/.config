@@ -4,12 +4,8 @@ source "$(pwd)/.dotfiles/settings.conf"
 # Variables for use throughout .bash_profile
 #-------------------------------------------------------------------------------
 
-# Dropbox directory location
-db_dir='~/Dropbox'
-
-# Scripts directory location
-dotfiles_dir=$(pwd)
-echo $dotfiles_dir
+# The location of this file (not symlinks)
+dotfiles_dir="$home_dir/.dotfiles"
 
 # Define color vars for prompt
 off='\[\e[0m\]' black='\[\e[0;30m\]' red='\[\e[0;31m\]' green='\[\e[0;32m\]' yellow='\[\e[0;33m\]' blue='\[\e[0;34m\]' purple='\[\e[0;35m\]' cyan='\[\e[0;36m\]' white='\[\e[0;37m\]'
