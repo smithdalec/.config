@@ -1,12 +1,15 @@
+# Include settings file. It should match settings.conf.dist
+source "$(pwd)/.dotfiles/settings.conf"
 
 # Variables for use throughout .bash_profile
 #-------------------------------------------------------------------------------
 
 # Dropbox directory location
-db_dir = '~/Dropbox'
+db_dir='~/Dropbox'
 
 # Scripts directory location
-sh_dir = "$db_dir/personal/scripts"
+dotfiles_dir=$(pwd)
+echo $dotfiles_dir
 
 # Define color vars for prompt
 off='\[\e[0m\]' black='\[\e[0;30m\]' red='\[\e[0;31m\]' green='\[\e[0;32m\]' yellow='\[\e[0;33m\]' blue='\[\e[0;34m\]' purple='\[\e[0;35m\]' cyan='\[\e[0;36m\]' white='\[\e[0;37m\]'
@@ -15,38 +18,38 @@ off='\[\e[0m\]' black='\[\e[0;30m\]' red='\[\e[0;31m\]' green='\[\e[0;32m\]' yel
 #-------------------------------------------------------------------------------
 
 # Enable Git tab completion
-source ~/.git-completion.bash
+source "$dotfiles_dir/scripts/git-completion.bash"
 
 # Aliases
 #-------------------------------------------------------------------------------
-alias la      = 'ls -a'
-alias ll      = 'ls -alh'
-alias ..      = 'cd ..'
-alias ...     = 'cd ../..'
-alias db      = "cd $db_dir"
-alias bashrc  = "subl $db_dir/Personal/home_sync/.bash_profile"
+alias la='ls -a'
+alias ll='ls -alh'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias db="cd $db_dir"
+alias bashrc="subl $dotfiles_dir/bashrc"
 
 # Function aliases
-alias fs   = 'find_string'
-alias tarb = 'tarball'
-alias tarx = 'tar_extract'
+alias fs='find_string'
+alias tarb='tarball'
+alias tarx='tar_extract'
 
 # Apache/MySQL helpers
-alias apre     = 'sudo apachectl restart'
-alias amp      = 'apre; sudo /usr/local/mysql/support-files/mysql.server restart'
-alias ampstart = 'sudo apachectl start; sudo /usr/local/mysql/support-files/mysql.server start'
-alias ampstop  = 'sudo apachectl stop; sudo /usr/local/mysql/support-files/mysql.server stop'
+alias apre='sudo apachectl restart'
+alias amp='apre; sudo /usr/local/mysql/support-files/mysql.server restart'
+alias ampstart='sudo apachectl start; sudo /usr/local/mysql/support-files/mysql.server start'
+alias ampstop='sudo apachectl stop; sudo /usr/local/mysql/support-files/mysql.server stop'
 
 # Git helpers
-alias gc   = 'git commit -am'
-alias gs   = 'git status'
-alias gr   = 'git remote -v'
-alias gpo  = 'git pull origin'
-alias gpho = 'git push origin'
+alias gc='git commit -am'
+alias gs='git status'
+alias gr='git remote -v'
+alias gpo='git pull origin'
+alias gpho='git push origin'
 
 # Loki-specific
-alias xboff = 'sudo /etc/init.d/ushare stop'
-alias xbon  = 'sudo /etc/init.d/ushare start'
+alias xboff='sudo /etc/init.d/ushare stop'
+alias xbon='sudo /etc/init.d/ushare start'
 
 # Set environment variables
 #-------------------------------------------------------------------------------
@@ -84,9 +87,18 @@ function tar_extract {
 }
 
 # Set the bash prompt
-function prompt_func() {
+function prompt_func () {
   previous_return_value=$?;
   PS1="\n$white\u@\H [$yellow\w$white] $green$(git_branch)\n$white> $off"
+}
+
+# Check if ST2 is installed and use vim as a backup editor
+function get_editor () {
+  if hash subl 2>/dev/null; then
+      echo 'vim'
+  else
+      echo 'subl'
+  fi
 }
 
 # Echo the current Git branch for prompt
