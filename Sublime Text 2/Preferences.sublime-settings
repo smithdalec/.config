@@ -1,0 +1,26 @@
+{
+	"auto_complete_delay": 50,
+	"color_scheme": "Packages/Color Scheme - Default/Dale.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 12.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeCodeIntel"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": "true"
+}

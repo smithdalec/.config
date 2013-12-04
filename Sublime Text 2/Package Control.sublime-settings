@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"CSV",
+		"DocBlockr",
+		"Drupal",
+		"Find Function Definition",
+		"Git",
+		"HTMLBeautify",
+		"INI",
+		"LineEndings",
+		"LoremIpsum",
+		"Modific",
+		"Package Control",
+		"Phix Color Scheme",
+		"PHP-Twig",
+		"Pretty JSON",
+		"SFTP",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Xdebug Client"
+	]
+}

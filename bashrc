@@ -54,7 +54,7 @@ alias xbon='sudo /etc/init.d/ushare start'
 export PROMPT_COMMAND=prompt_func
 
 # Build bin path
-export PATH=/usr/local/mysql/bin:/usr/local/bin:/Users/Dale/pear/bin:/Users/dale/pear/bin:/opt/local/bin:/opt/local/sbin:/usr/local/sbin:$PATH
+export PATH=/usr/local/bin:/Applications/MAMP/bin/php/php5.3.27/bin:$PATH
 
 # Enable colors for directories
 export CLICOLOR=1
