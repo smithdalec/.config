@@ -1,5 +1,6 @@
 {
 	"auto_complete_delay": 50,
+	"color_scheme": "Packages/Color Scheme - Default/Dale.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
