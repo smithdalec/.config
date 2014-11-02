@@ -18,5 +18,8 @@ ln -s ~/.config/atom ~/.atom
 ln -s ~/.config/git/gitconfig ~/.gitconfig
 ln -s ~/.config/git/gitignore ~/.gitignore
 ln -s ~/.config/PhpStorm/WebIde70 ~/Library/Preferences/WebIde70
-ln -s ~/.config/iTerm/com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 ```
+1. Configure iTerm
+    1. Open up iTerm Preferences
+    1. Check "Load preferences from custom folder or URL"
+    1. Enter `/Users/dale/.config/iTerm/`
