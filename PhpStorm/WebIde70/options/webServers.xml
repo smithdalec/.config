@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fa153075-11ff-4218-b603-0a814f857223" name="GAST" url="http://gast-vm.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6ac06c67-0f7f-4e81-a63e-87663b1df18b" name="YMT" url="http://ymt.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d63cc10f-d205-4b51-a575-c73c24b00fd8" name="Quark" url="http://quark.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6a5315c3-ca09-4b7a-80ac-d7baf07f2bcf" name="Travcoa" url="http://travcoa-vm.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ec50ab57-6815-4845-9305-95c70ae59ce9" name="MatchupAnalyzer - Vagrant" url="http://api.matchupanalyzer.vm/index.php">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="da9d4663-52a0-400b-a6bb-8ff0e2775306" name="TCS" url="http://tcs.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ab16c9b5-8fea-4441-ac0e-2f66535c3882" name="IE Travel" url="http://ietravel.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e5257a42-65b3-4a43-b8cf-7ba777c5646e" name="Jumpstreet" url="http://jumpstreet.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="1367fad5-c844-4130-a499-0b555acff22e" name="Zegrahm" url="http://zegrahm.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="89514a06-0657-4e1a-8359-1e0a58c4c0a2" name="MatchupAPI" url="http://api.matchupanalyzer.vm/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="0b5da3af-c5a2-46d6-b507-e6668bed723f" name="zeg.dev" url="http://zeg.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
+

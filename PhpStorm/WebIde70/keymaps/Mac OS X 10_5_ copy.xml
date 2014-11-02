@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateMessagesToolWindow" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta SUBTRACT" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta SUBTRACT" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.ShowDiff" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="meta E" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="TAB" />
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift TAB" />
+    <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta ADD" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta ADD" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="control ENTER" />
+  </action>
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="ADD" />
+    <keyboard-shortcut first-keystroke="EQUALS" />
+    <keyboard-shortcut first-keystroke="meta EQUALS" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="SUBTRACT" />
+    <keyboard-shortcut first-keystroke="MINUS" />
+    <keyboard-shortcut first-keystroke="meta MINUS" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta DIVIDE" />
+    <keyboard-shortcut first-keystroke="meta SLASH" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta ADD" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta SUBTRACT" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="control RIGHT" />
+    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="control LEFT" />
+    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt R" />
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta F2" />
+    <keyboard-shortcut first-keystroke="shift meta D" />
+    <keyboard-shortcut first-keystroke="shift meta R" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta F8" />
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
+

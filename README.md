@@ -14,8 +14,8 @@
   ```
 1. Set-up symlinks
 ```bash
-cd ~
-ln -s .config/atom .atom
-ln -s ~/.config/git/gitconfig .gitconfig
-ln -s ~/.config/git/gitignore .gitignore
+ln -s ~/.config/atom ~/.atom
+ln -s ~/.config/git/gitconfig ~/.gitconfig
+ln -s ~/.config/git/gitignore ~/.gitignore
+ln -s ~/.config/PhpStorm/WebIde70 ~/Library/Preferences/WebIde70
 ```

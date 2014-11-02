@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Debugger messages" displayType="NONE" />
+    <notification groupId="Browser Connection" />
+    <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="DBGP Proxy" />
+    <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="Project Settings" />
+    <notification groupId="PHP Profiler" />
+    <notification groupId="Notification group display Id" />
+    <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
+    <notification groupId="Debugger" />
+    <toolWindow group="Git Messages" />
+    <toolWindow group="FindInPath" />
+    <toolWindow group="PHP Debugger" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="JavaScript debugger" />
+    <toolWindow group="Database view" />
+  </component>
+</application>
+

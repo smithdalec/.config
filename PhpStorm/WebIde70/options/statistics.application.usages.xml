@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="travcoa" values="Git" />
+      <project id="ymtvacations.com" values="Git" />
+      <project id="ymt" values="Git" />
+      <project id="Travcoa" values="Git" />
+      <project id="matchupanalyzer.com" values="Git" />
+      <project id="MatchupAPI" values="Git" />
+      <project id="shallwefight.com" values="Git" />
+      <project id="Quark-D7" values="Git" />
+      <project id="zegrahm" values="Git" />
+      <project id="Great-Atlantic-Sports-Travel" values="Git" />
+      <project id="ietravel" values="Git" />
+      <project id="jset" values="Git" />
+      <project id="matchupanalyzer" values="Git" />
+      <project id="tcs" values="Git" />
+    </group>
+    <group name="php-interpreters">
+      <project id="travcoa" values="0" />
+      <project id="ymtvacations.com" values="0" />
+      <project id="domino" values="0" />
+      <project id="ymt" values="0" />
+      <project id="Travcoa" values="0" />
+      <project id="cybersource" values="0" />
+      <project id="matchupanalyzer.com" values="0" />
+      <project id="MatchupAPI" values="0" />
+      <project id="shallwefight.com" values="0" />
+      <project id="Quark-D7" values="0" />
+      <project id="zegrahm" values="0" />
+      <project id="tui-core" values="0" />
+      <project id="Great-Atlantic-Sports-Travel" values="0" />
+      <project id="ietravel" values="0" />
+      <project id="matchupanalyzer" values="0" />
+      <project id="jset" values="0" />
+      <project id="tcs" values="0" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="travcoa" values="not installed" />
+      <project id="ymtvacations.com" values="not installed" />
+      <project id="domino" values="not installed" />
+      <project id="ymt" values="not installed" />
+      <project id="Travcoa" values="not installed" />
+      <project id="cybersource" values="not installed" />
+      <project id="matchupanalyzer.com" values="not installed" />
+      <project id="MatchupAPI" values="not installed" />
+      <project id="shallwefight.com" values="not installed" />
+      <project id="Quark-D7" values="not installed" />
+      <project id="zegrahm" values="not installed" />
+      <project id="tui-core" values="not installed" />
+      <project id="Great-Atlantic-Sports-Travel" values="not installed" />
+      <project id="ietravel" values="not installed" />
+      <project id="matchupanalyzer" values="not installed" />
+      <project id="jset" values="not installed" />
+      <project id="tcs" values="not installed" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="travcoa" values="PhpRemoteDebugRunConfigurationType" />
+      <project id="Great-Atlantic-Sports-Travel" values="PhpRemoteDebugRunConfigurationType,PhpWebAppRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="travcoa" values="WEB_MODULE" />
+      <project id="ymtvacations.com" values="WEB_MODULE" />
+      <project id="domino" values="WEB_MODULE" />
+      <project id="ymt" values="WEB_MODULE" />
+      <project id="Travcoa" values="WEB_MODULE" />
+      <project id="cybersource" values="WEB_MODULE" />
+      <project id="matchupanalyzer.com" values="WEB_MODULE" />
+      <project id="MatchupAPI" values="WEB_MODULE" />
+      <project id="shallwefight.com" values="WEB_MODULE" />
+      <project id="Quark-D7" values="WEB_MODULE" />
+      <project id="zegrahm" values="WEB_MODULE" />
+      <project id="tui-core" values="WEB_MODULE" />
+      <project id="Great-Atlantic-Sports-Travel" values="WEB_MODULE" />
+      <project id="ietravel" values="WEB_MODULE" />
+      <project id="matchupanalyzer" values="WEB_MODULE" />
+      <project id="jset" values="WEB_MODULE" />
+      <project id="tcs" values="WEB_MODULE" />
+    </group>
+    <group name="deployment server">
+      <project id="travcoa" values="LOCAL" />
+      <project id="ymtvacations.com" values="LOCAL" />
+      <project id="domino" values="LOCAL" />
+      <project id="ymt" values="LOCAL" />
+      <project id="Travcoa" values="LOCAL" />
+      <project id="cybersource" values="LOCAL" />
+      <project id="matchupanalyzer.com" values="LOCAL" />
+      <project id="MatchupAPI" values="LOCAL" />
+      <project id="shallwefight.com" values="LOCAL" />
+      <project id="Quark-D7" values="LOCAL" />
+      <project id="zegrahm" values="LOCAL" />
+      <project id="tui-core" values="LOCAL" />
+      <project id="Great-Atlantic-Sports-Travel" values="LOCAL" />
+      <project id="ietravel" values="LOCAL" />
+      <project id="matchupanalyzer" values="LOCAL" />
+      <project id="jset" values="LOCAL" />
+      <project id="tcs" values="LOCAL" />
+    </group>
+    <group name="php-servers">
+      <project id="travcoa" values="2" />
+      <project id="ymtvacations.com" values="0" />
+      <project id="domino" values="1" />
+      <project id="ymt" values="2" />
+      <project id="Travcoa" values="0" />
+      <project id="cybersource" values="1" />
+      <project id="matchupanalyzer.com" values="0" />
+      <project id="MatchupAPI" values="1" />
+      <project id="shallwefight.com" values="0" />
+      <project id="Quark-D7" values="1" />
+      <project id="zegrahm" values="2" />
+      <project id="tui-core" values="1" />
+      <project id="Great-Atlantic-Sports-Travel" values="6" />
+      <project id="ietravel" values="0" />
+      <project id="matchupanalyzer" values="1" />
+      <project id="jset" values="1" />
+      <project id="tcs" values="1" />
+    </group>
+    <group name="php-include-path">
+      <project id="travcoa" values="0" />
+      <project id="ymtvacations.com" values="1" />
+      <project id="domino" values="0" />
+      <project id="ymt" values="2" />
+      <project id="Travcoa" values="1" />
+      <project id="cybersource" values="0" />
+      <project id="matchupanalyzer.com" values="0" />
+      <project id="MatchupAPI" values="0" />
+      <project id="shallwefight.com" values="0" />
+      <project id="Quark-D7" values="1" />
+      <project id="zegrahm" values="2" />
+      <project id="tui-core" values="0" />
+      <project id="Great-Atlantic-Sports-Travel" values="1" />
+      <project id="ietravel" values="2" />
+      <project id="matchupanalyzer" values="0" />
+      <project id="jset" values="0" />
+      <project id="tcs" values="2" />
+    </group>
+    <group name="php-server-debug-ext">
+      <project id="cybersource" values="xdebug" />
+      <project id="MatchupAPI" values="xdebug" />
+      <project id="domino" values="xdebug" />
+      <project id="tui-core" values="xdebug" />
+      <project id="Quark-D7" values="xdebug" />
+      <project id="jset" values="xdebug" />
+      <project id="matchupanalyzer" values="xdebug" />
+      <project id="tcs" values="xdebug" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Great-Atlantic-Sports-Travel" values="JavascriptDebugType" />
+    </group>
+    <group name="file-type">
+      <project id="travcoa" values="JavaScript,htaccess,PHP,XML,Images,JSON,Native,Locale,UNKNOWN,PLAIN_TEXT,HTML,SQL,Ini,CSS,PATCH" />
+      <project id="ymtvacations.com" values="CSS,ASP,JavaScript,PLAIN_TEXT,UNKNOWN,XML,PHP,SQL,Images,htaccess,Ini,PATCH,HTML,Locale,Native" />
+      <project id="domino" values="UNKNOWN,XML" />
+      <project id="ymt" values="htaccess,UNKNOWN,ASP,Locale,SQL,Native,PLAIN_TEXT,Images,CSS,PATCH,Ini,PHP,HTML,JavaScript,XML" />
+      <project id="Travcoa" values="Locale,CSS,JavaScript,PATCH,Ini,SQL,htaccess,XML,UNKNOWN,Images,PHP,Native,JSON,HTML,PLAIN_TEXT" />
+      <project id="cybersource" values="XML,PHP,UNKNOWN" />
+      <project id="matchupanalyzer.com" values="SQL,XML,PLAIN_TEXT,CSS,UNKNOWN,htaccess,HTML,Locale,JavaScript,Ini,PHP,Images" />
+      <project id="MatchupAPI" values="ReST,CSS,ARCHIVE,JSON,SQL,UNKNOWN,PLAIN_TEXT,XML,PHP,HTML,Locale,YAML,SmartyConfig,Twig,htaccess,JavaScript,Ini,C++,Smarty,TypeScript,Images" />
+      <project id="shallwefight.com" values="HTML,Bash,Images,UNKNOWN,SQL,PLAIN_TEXT,JavaScript,Ini,CSS,XML,htaccess,Locale,PHP" />
+      <project id="Quark-D7" values="SQL,UNKNOWN,HTML,JavaScript,PLAIN_TEXT,XML,Locale,Ini,htaccess,Images,PATCH,PHP,CSS" />
+      <project id="zegrahm" values="CSS,ASP,HTML,JavaScript,Native,Ini,UNKNOWN,JSON,SCSS,JSHint,PHP,JSP,SQL,ARCHIVE,XML,Perl,PATCH,Images,PLAIN_TEXT,htaccess,Locale" />
+      <project id="tui-core" values="Markdown,PHP,HTML,UNKNOWN,CSS,Locale,Cucumber,Native,htaccess,XML,YAML,JSON,SmartyConfig,JSHint,JavaScript,SQL,PLAIN_TEXT,CoffeeScript,Ini,SCSS,Images" />
+      <project id="Great-Atlantic-Sports-Travel" values="PHP,Native,htaccess,CSS,XML,JavaScript,Ini,ARCHIVE,ASP,HTML,JSON,PATCH,Markdown,UNKNOWN,Locale,YAML,PLAIN_TEXT,SQL,Images" />
+      <project id="ietravel" values="UNKNOWN,HTML,PLAIN_TEXT,Locale,PHP,Ini,ASP,Perl,Images,CSS,XML,JavaScript,ARCHIVE,htaccess" />
+      <project id="matchupanalyzer" values="PHP,ReST,HTML,XML,YAML,UNKNOWN,SmartyConfig,htaccess,JSON,PLAIN_TEXT,Images" />
+      <project id="jset" values="htaccess,Ini,UNKNOWN,Images,SQL,Locale,HTML,PLAIN_TEXT,JavaScript,PHP,XML,JSON,CSS,Native" />
+      <project id="tcs" values="HTML,PLAIN_TEXT,Native,CSS,SQL,Locale,Images,UNKNOWN,PHP,JSHint,JavaScript,htaccess,JSON,Ini,PATCH,SCSS,XML" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="travcoa" values="DEFAULT" />
+      <project id="ymtvacations.com" values="DEFAULT" />
+      <project id="domino" values="DEFAULT" />
+      <project id="ymt" values="DEFAULT" />
+      <project id="Travcoa" values="DEFAULT" />
+      <project id="cybersource" values="DEFAULT" />
+      <project id="matchupanalyzer.com" values="DEFAULT" />
+      <project id="MatchupAPI" values="DEFAULT" />
+      <project id="shallwefight.com" values="DEFAULT" />
+      <project id="Quark-D7" values="DEFAULT" />
+      <project id="zegrahm" values="DEFAULT" />
+      <project id="tui-core" values="DEFAULT" />
+      <project id="Great-Atlantic-Sports-Travel" values="DEFAULT" />
+      <project id="ietravel" values="DEFAULT" />
+      <project id="matchupanalyzer" values="DEFAULT" />
+      <project id="jset" values="DEFAULT" />
+      <project id="tcs" values="DEFAULT" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="travcoa" values="0" />
+      <project id="ymtvacations.com" values="0" />
+      <project id="domino" values="0" />
+      <project id="ymt" values="0" />
+      <project id="Travcoa" values="0" />
+      <project id="cybersource" values="0" />
+      <project id="matchupanalyzer.com" values="0" />
+      <project id="MatchupAPI" values="0" />
+      <project id="shallwefight.com" values="0" />
+      <project id="Quark-D7" values="0" />
+      <project id="zegrahm" values="0" />
+      <project id="tui-core" values="0" />
+      <project id="Great-Atlantic-Sports-Travel" values="0" />
+      <project id="ietravel" values="0" />
+      <project id="matchupanalyzer" values="0" />
+      <project id="jset" values="0" />
+      <project id="tcs" values="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="travcoa" values="Project,Project" />
+      <project id="ymtvacations.com" values="Project,Project" />
+      <project id="domino" values="Project,Project" />
+      <project id="ymt" values="Project,Project" />
+      <project id="Travcoa" values="Project,Project" />
+      <project id="cybersource" values="Project,Project" />
+      <project id="matchupanalyzer.com" values="Project,Project" />
+      <project id="MatchupAPI" values="Project,Project" />
+      <project id="shallwefight.com" values="Project,Project" />
+      <project id="Quark-D7" values="Project,Project" />
+      <project id="zegrahm" values="Project,Project" />
+      <project id="tui-core" values="Project,Project" />
+      <project id="Great-Atlantic-Sports-Travel" values="Project,Project" />
+      <project id="ietravel" values="Project,Project" />
+      <project id="matchupanalyzer" values="Project,Project" />
+      <project id="jset" values="Project,Project" />
+      <project id="tcs" values="Project,Project" />
+    </group>
+    <group name="Drupal Support">
+      <project id="Great-Atlantic-Sports-Travel" values="Drupal_7" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="17" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="5" />
+      <entry feature="execute.PhpRemoteDebugRunConfigurationType.Debug" count="31" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="31" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="8" />
+    </counts>
+  </component>
+</application>
+

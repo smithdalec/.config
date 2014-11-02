@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1440.900" x="465" y="295" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="698" y="293" />
+    <location key="DiffWindow.0.0.1920.1080" x="100" y="100" />
+    <location key="#Inspections.0.0.1920.1080" x="598" y="226" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="773" y="276" />
+    <location key="NewPhpClassDialog.0.0.1920.1080" x="759" y="372" />
+    <location key="#xdebugger.XInspectDialog.0.0.1920.1080" x="896" y="315" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="737" y="393" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="300" />
+    <location key="NewPhpFileDialog.0.0.1920.1080" x="779" y="471" />
+    <location key="NewPhpFileDialog.0.0.1440.900" x="539" y="381" />
+    <location key="MultipleFileMergeDialog.0.0.1440.900" x="419" y="195" />
+    <location key="PhpDebugProjectChooserDialog.0.0.1440.900" x="558" y="270" />
+    <location key="findTextDialog.0.0.1920.1080" x="740" y="304" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="424" y="201" />
+    <location key="#Servers.0.0.1920.1080" x="547" y="201" />
+    <location key="#com.jetbrains.php.config.servers.PhpEnvironmentValidationDialog#.0.0.1920.1080" x="682" y="366" />
+    <location key="#Deployment.0.0.1920.1080" x="547" y="201" />
+    <location key="OptionsEditor.0.0.1920.1080" x="454" y="117" />
+    <location key="replaceTextDialog.0.0.1440.900" x="511" y="189" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1440.900" x="508" y="168" />
+    <location key="dock-window-1.0.0.1440.900" x="32" y="34" />
+    <location key="dock-window-2.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.-1.bottom.0.0.1440.900" x="32" y="34" />
+    <location key="GridCell.Tab.-1.right.0.0.1440.900" x="32" y="34" />
+    <location key="GridCell.Tab.-1.center.0.0.1440.900" x="32" y="34" />
+    <location key="GridCell.Tab.-1.left.0.0.1440.900" x="32" y="34" />
+    <location key="GridCell.Tab.3.bottom.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.3.right.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.3.center.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.3.left.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.2.bottom.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.2.right.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.2.center.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.2.left.0.0.1440.900" x="35" y="24" />
+    <location key="GridCell.Tab.1.bottom.0.0.1440.900" x="32" y="34" />
+    <location key="GridCell.Tab.1.right.0.0.1440.900" x="32" y="34" />
+    <location key="GridCell.Tab.1.center.0.0.1440.900" x="32" y="34" />
+    <location key="GridCell.Tab.1.left.0.0.1440.900" x="32" y="34" />
+    <location key="PhpMappingAdvancedResolveDialog.0.0.1440.900" x="471" y="350" />
+    <location key="#DBGp_Proxy.0.0.1440.900" x="564" y="370" />
+    <location key="#Servers.0.0.1440.900" x="470" y="222" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="493" y="178" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="300" />
+    <location key="OptionsEditor.0.0.1440.900" x="50" y="71" />
+    <location key="#Notifications.0.0.1440.900" x="482" y="215" />
+    <location key="DiffWindow.0.0.1440.900" x="100" y="100" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="461" y="365" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1440.900" x="467" y="303" />
+    <location key="#Interpreters.0.0.1440.900" x="313" y="91" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="111" />
+    <location key="PhpDebugFileChooserDialog.0.0.1440.900" x="558" y="248" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1440.900" x="222" y="208" />
+    <location key="#com.jetbrains.php.config.servers.PhpEnvironmentValidationDialog#.0.0.1440.900" x="253" y="422" />
+    <location key="#Deployment.0.0.1440.900" x="313" y="91" />
+    <location key="#xdebugger.evaluate.0.0.1440.900" x="546" y="199" />
+    <location key="#xdebugger.XInspectDialog.0.0.1440.900" x="391" y="61" />
+    <location key="#settings.php.0.0.1440.900" x="459" y="145" />
+    <location key="findTextDialog.0.0.1440.900" x="500" y="214" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="533" y="186" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="411" y="255" />
+    <location key="RegExHelpPopup.0.0.1440.900" x="322" y="195" />
+    <location key="PhpDebugFileChooserDialog.0.0.1920.1080" x="798" y="338" />
+    <location key="PhpDebugProjectChooserDialog.0.0.1920.1080" x="798" y="338" />
+    <location key="#Framework_Integration.0.0.1920.1080" x="786" y="488" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="614" y="251" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="747" y="287" />
+    <location key="PhpMappingAdvancedResolveDialog.0.0.1920.1080" x="711" y="440" />
+    <size key="DiffWindow.0.0.1920.1080" width="1720" height="880" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="445" height="430" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="401" height="1009" />
+    <size key="dock-window-1.0.0.1440.900" width="1408" height="335" />
+    <size key="dock-window-2.0.0.1440.900" width="1405" height="299" />
+    <size key="GridCell.Tab.3.bottom.0.0.1440.900" width="1405" height="283" />
+    <size key="GridCell.Tab.3.right.0.0.1440.900" width="1405" height="283" />
+    <size key="GridCell.Tab.3.center.0.0.1440.900" width="1405" height="283" />
+    <size key="GridCell.Tab.3.left.0.0.1440.900" width="1405" height="283" />
+    <size key="GridCell.Tab.-1.bottom.0.0.1440.900" width="471" height="829" />
+    <size key="GridCell.Tab.-1.right.0.0.1440.900" width="471" height="829" />
+    <size key="GridCell.Tab.-1.center.0.0.1440.900" width="471" height="829" />
+    <size key="GridCell.Tab.-1.left.0.0.1440.900" width="471" height="829" />
+    <size key="DebuggerActiveHint.0.0.1440.900" width="562" height="430" />
+    <size key="PhpMappingAdvancedResolveDialog.0.0.1440.900" width="749" height="352" />
+    <size key="DiffWindow.0.0.1440.900" width="1240" height="700" />
+    <size key="OptionsEditor.0.0.1440.900" width="1382" height="807" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.1.left.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.1.right.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.2.left.0.0.1440.900" width="471" height="829" />
+    <size key="GridCell.Tab.2.center.0.0.1440.900" width="471" height="829" />
+    <size key="GridCell.Tab.2.right.0.0.1440.900" width="471" height="829" />
+    <size key="GridCell.Tab.2.bottom.0.0.1440.900" width="471" height="829" />
+    <size key="XDebugger.FullValuePopup.0.0.1440.900" width="720" height="450" />
+    <size key="XDebugger.FullValuePopup.0.0.1920.1080" width="960" height="540" />
+    <size key="RegExHelpPopup.0.0.1440.900" width="600" height="319" />
+    <size key="PhpMappingAdvancedResolveDialog.0.0.1920.1080" width="654" height="197" />
+    <size key="#xdebugger.XInspectDialog.0.0.1440.900" width="744" height="644" />
+    <size key="javadoc.popup.0.0.1440.900" width="600" height="419" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="idea.dark.laf.classname" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.7" value="18" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="494539" />
+    <property name="Non-Project Files" value="494539" />
+    <property name="KEYMAP" value="high&#10;next oc&#10;stop&#10;resume&#10;run" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="FileTemplates.SelectedTemplate" value="PHPUnit Test" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ColorChooser.RecentColors" value="105-105-105-255,,,85-85-85-255,,,204-255-198-255,,,130-168-130-255,,,147-186-147-255,,,93-46-46-255,,,136-0-6-255,,,65-85-65-255,,,162-108-108-255,,,114-103-0-255,,,248-232-132-255,,,162-60-61-255,,,115-114-102-255,,,255-179-63-255,,,21-22-16-255,,,25-26-21-255,,,33-34-29-255,,,32-33-28-255,,,81-85-221-255,,,89-93-255-255" />
+    <property name="installation.uid" value="54256fb8-1851-45f8-906c-a5b19e756a00" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/www/nas/domino/docroot/profiles/d2&#10;/Users/dale/www/njord/MatchupAPI/web&#10;/Users/dale/vm/tuidev-vagrant/log/nas/cachegrind.out.7175&#10;/www/tuidev-vagrant/log/nas/cachegrind.out.6856&#10;/www/tuidev-vagrant/log/nas/cachegrind.out.4767&#10;/www/nas/gast" />
+    <property name="evlsprt.7" value="14644ba438e" />
+    <property name="evlsprt2.7" value="145f08c03db" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="export.settings.path" value="$USER_HOME$/Library/Preferences/WebIde70/settings.jar" />
+  </component>
+</application>
+

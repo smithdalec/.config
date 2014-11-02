@@ -5,3 +5,7 @@ atom/.node-gyp
 atom/compile-cache
 atom/packages
 atom/storage
+PhpStorm/WebIde70/componentVersions
+PhpStorm/WebIde70/eval
+PhpStorm/WebIde70/tasks
+PhpStorm/WebIde70/phpstorm70.key
