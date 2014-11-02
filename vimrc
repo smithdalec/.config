@@ -1,1 +1,0 @@
-/Users/dale/Dropbox/Personal/home_sync/.vimrc
