@@ -62,3 +62,5 @@
 	td = tag -d
 	unstage = reset HEAD --
 	up = push origin
+[push]
+	default = tracking
