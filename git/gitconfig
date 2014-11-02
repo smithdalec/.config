@@ -1,6 +1,7 @@
 # Mostly stolen from https://github.com/kevinsawicki/dotfiles/blob/master/.gitconfig
 [core]
 	editor = atom --wait
+	pager = less -F -X
 [user]
 	name = Dale Smith
 	email = smithdalec@gmail.com
@@ -10,13 +11,15 @@
 	status = auto
 	ui = true
 [color "status"]
-	# added = green
-	# changed  = cyan
-	# untracked = yellow
+	added = green
+	changed  = cyan
+	untracked = yellow
 [color "branch"]
-	current = cyan bold
+	current = cyan
 	local = yellow
 	remote = green
+[pretty]
+	dale-long = "%C(auto) %h %C(green)%cr %C(blue)%cn%C(auto)%d%Creset %n%s%n"
 [alias]
 	a = add
 	aa = add --all :/
@@ -41,12 +44,12 @@
 	fm = !git f && git m
 	h = show HEAD --word-diff=color
 	hf = show HEAD --name-only
-	l = log --oneline --decorate
+	l = log --oneline --decorate --graph -10
+	lf = log --oneline --decorate --graph --format=dale-long
 	laf = log --oneline --decorate --follow --all --
 	lag = log --oneline --decorate --graph --all
 	lc = log --oneline --decorate --graph --left-right
 	lch = !git log --oneline --decorate --graph --left-right HEAD...$1
-	lf = log --oneline --decorate --follow --
 	lg = log --oneline --decorate --graph
 	m = merge
 	n = config --local user.name
