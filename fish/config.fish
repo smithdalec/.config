@@ -1,17 +1,32 @@
+set fish_color_autosuggestion 555
+set fish_color_command blue
+set fish_color_comment red
+set fish_color_cwd yellow
+set fish_color_cwd_root red
+set fish_color_error red
+set fish_color_escape cyan
+set fish_color_history_current cyan
+set fish_color_host normal
+set fish_color_match cyan
+set fish_color_normal normal
+set fish_color_operator cyan
+set fish_color_param blue
+set fish_color_quote brown
+set fish_color_redirection normal
+set fish_color_search_match
+set fish_color_status red
+set fish_color_user normal
+set fish_color_valid_path underline
+set fish_pager_color_completion normal
+set fish_pager_color_description 555
+set fish_pager_color_prefix cyan
+set fish_pager_color_progress cyan
+
 
 alias la='ls -a'
 alias ll='ls -alh'
 alias ..='cd ..'
 alias ...='cd ../..'
-
-# Git helpers
-alias ga='git add .'
-alias gc='git commit -m'
-alias gs='git status'
-alias gr='git remote -v'
-alias gpo='git pull origin'
-alias gpho='git push origin'
-alias gl="git --no-pager log --graph --date-order --decorate --format=format:'%w(90,0,10)%C(blue)%h%C(reset) - %C(green)(%ar)%C(reset)%C(yellow)%d%C(reset)%n%C(white)%s%C(reset) %C(bold black)- %an%C(reset)' -15"
 
 function fish_prompt --description 'Write out the prompt'
   set -l last_status $status
