@@ -27,6 +27,8 @@ alias la='ls -a'
 alias ll='ls -alh'
 alias ..='cd ..'
 alias ...='cd ../..'
+alias hidden_files_show='defaults write com.apple.finder AppleShowAllFiles YES; killall Finder'
+alias hidden_files_hide='defaults write com.apple.finder AppleShowAllFiles NO; killall Finder'
 
 function fish_prompt --description 'Write out the prompt'
   set -l last_status $status
