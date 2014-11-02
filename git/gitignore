@@ -1,3 +1,12 @@
+# Custom stuff
+
+# IDE Config
+*.sublime-project
+*.sublime-workspace
+.idea
+.idea/*
+
+
 # Automatically created by GitHub for Mac
 
 .DS_Store

@@ -1,5 +1,21 @@
-Installation
-------------
-1. Clone repo to home directory
-2. Copy settings.conf.dist to settings.conf and change settings
-3. Make backups of current dotfiles, and symlink the current dotfile paths to the dotfiles in this repo
+# Installation
+1. Initialize the repo
+
+  If there's already a ~/.config directory...
+  ```bash
+  cd ~/.config
+  git init
+  git remote add origin git@github.com:smithdalec/.config.git
+  ```
+  Otherwise...
+  ```bash
+  cd ~
+  git clone git@github.com:smithdalec/.config.git .config
+  ```
+1. Set-up symlinks
+```bash
+cd ~
+ln -s .config/atom .atom
+ln -s ~/.config/git/gitconfig .gitconfig
+ln -s ~/.config/git/gitignore .gitignore
+```
