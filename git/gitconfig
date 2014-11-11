@@ -1,6 +1,6 @@
 # Mostly stolen from https://github.com/kevinsawicki/dotfiles/blob/master/.gitconfig
 [core]
-	editor = atom --wait
+	editor = vim
 	pager = less -F -X
 [user]
 	name = Dale Smith
