@@ -9,3 +9,6 @@ PhpStorm/WebIde70/componentVersions
 PhpStorm/WebIde70/eval
 PhpStorm/WebIde70/tasks
 PhpStorm/WebIde70/phpstorm70.key
+PhpStorm/WebIde70/options/*statistics*
+PhpStorm/WebIde70/options/options.xml
+PhpStorm/WebIde70/options/other.xml
