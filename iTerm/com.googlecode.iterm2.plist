@@ -227,11 +227,11 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>180 528 231 329 0 0 1920 1080 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>6 415 924 485 0 0 1440 900 </string>
+	<string>7 392 924 485 0 0 1440 877 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>648 674 384 129 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>162 91 598 399 0 0 1440 900 </string>
+	<string>162 91 598 399 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -379,11 +379,11 @@
 			<key>Ansi 9 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.14259813725948334</real>
+				<real>0.43158921599388123</real>
 				<key>Green Component</key>
-				<real>0.14513099193572998</real>
+				<real>0.43158921599388123</real>
 				<key>Red Component</key>
-				<real>1</real>
+				<real>0.43158921599388123</real>
 			</dict>
 			<key>Automatically Log</key>
 			<false/>
@@ -615,7 +615,7 @@
 					<key>Action</key>
 					<integer>10</integer>
 					<key>Text</key>
-					<string>[1;2D</string>
+					<string>b</string>
 				</dict>
 				<key>0xf702-0x240000</key>
 				<dict>
@@ -638,12 +638,19 @@
 					<key>Text</key>
 					<string>0x1b 0x1b 0x5b 0x44</string>
 				</dict>
+				<key>0xf702-0x300000</key>
+				<dict>
+					<key>Action</key>
+					<integer>11</integer>
+					<key>Text</key>
+					<string>0x01</string>
+				</dict>
 				<key>0xf703-0x220000</key>
 				<dict>
 					<key>Action</key>
 					<integer>10</integer>
 					<key>Text</key>
-					<string>[1;2C</string>
+					<string>f</string>
 				</dict>
 				<key>0xf703-0x240000</key>
 				<dict>
@@ -665,6 +672,13 @@
 					<integer>11</integer>
 					<key>Text</key>
 					<string>0x1b 0x1b 0x5b 0x43</string>
+				</dict>
+				<key>0xf703-0x300000</key>
+				<dict>
+					<key>Action</key>
+					<integer>11</integer>
+					<key>Text</key>
+					<string>0x05</string>
 				</dict>
 				<key>0xf704-0x20000</key>
 				<dict>
@@ -1035,7 +1049,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-11-02T22:00:42Z</date>
+	<date>2014-11-13T07:01:59Z</date>
 	<key>SUSkippedVersion</key>
 	<string>1.0.0.20140112</string>
 	<key>SavePasteHistory</key>
@@ -2665,6 +2679,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.0.0.20141022</string>
+	<string>2.0.0.20141103</string>
 </dict>
 </plist>

@@ -13,7 +13,6 @@
     'nonWordCharacters': './\\()"\':,.;<>~!@#%^&*|+=[]{}`~?-'
     'fontSize': 12
     'fontFamily': 'monaco'
-    'invisibles': {}
   'core':
     'themes': [
       'atom-dark-ui-slim'
