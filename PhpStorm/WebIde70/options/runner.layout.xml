@@ -9,11 +9,18 @@
         <option name="tabIndex" value="0" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="FICTIVE_KEY" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="bottomDetached" value="false" />
-        <option name="bottomProportion" value="0.5" />
+        <option name="bottomProportion" value="0.0" />
         <option name="centerDetached" value="false" />
-        <option name="defaultIndex" value="0" />
+        <option name="defaultIndex" value="1" />
         <option name="displayName" />
         <option name="index" value="0" />
         <option name="leftDetached" value="false" />
@@ -30,16 +37,16 @@
     </runner>
     <runner id="Debug">
       <ViewImpl>
-        <option name="ID" value="WatchesContent" />
-        <option name="minimizedInGrid" value="true" />
-        <option name="placeInGrid" value="right" />
+        <option name="ID" value="FrameContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
         <option name="tabIndex" value="0" />
         <option name="window" value="0" />
       </ViewImpl>
       <ViewImpl>
-        <option name="ID" value="FrameContent" />
-        <option name="minimizedInGrid" value="false" />
-        <option name="placeInGrid" value="bottom" />
+        <option name="ID" value="WatchesContent" />
+        <option name="minimizedInGrid" value="true" />
+        <option name="placeInGrid" value="right" />
         <option name="tabIndex" value="0" />
         <option name="window" value="0" />
       </ViewImpl>
@@ -59,7 +66,7 @@
       </ViewImpl>
       <TabImpl>
         <option name="bottomDetached" value="false" />
-        <option name="bottomProportion" value="0.69338423" />
+        <option name="bottomProportion" value="0.65217394" />
         <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="0" />
         <option name="displayName" />
@@ -106,17 +113,17 @@
         <option name="window" value="0" />
       </ViewImpl>
       <ViewImpl>
-        <option name="ID" value="SummaryContent" />
-        <option name="minimizedInGrid" value="false" />
-        <option name="placeInGrid" value="center" />
-        <option name="tabIndex" value="1" />
-        <option name="window" value="0" />
-      </ViewImpl>
-      <ViewImpl>
         <option name="ID" value="CallersContent" />
         <option name="minimizedInGrid" value="false" />
         <option name="placeInGrid" value="bottom" />
         <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="SummaryContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="1" />
         <option name="window" value="0" />
       </ViewImpl>
       <ViewImpl>

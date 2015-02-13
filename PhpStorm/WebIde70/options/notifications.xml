@@ -23,6 +23,9 @@
     <notification groupId="Notification group display Id" />
     <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
     <notification groupId="Debugger" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="Gitignore" displayType="STICKY_BALLOON" />
+    <notification groupId="IGNORE_GROUP" displayType="STICKY_BALLOON" />
     <toolWindow group="Git Messages" />
     <toolWindow group="FindInPath" />
     <toolWindow group="PHP Debugger" />

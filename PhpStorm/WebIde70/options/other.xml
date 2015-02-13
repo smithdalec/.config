@@ -2,18 +2,14 @@
 <application>
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
-  </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="text-editor" />
-      </map>
-    </option>
   </component>
   <component name="FindSettings">
     <option name="SEARCH_OVERLOADED_METHODS" value="false" />
@@ -38,50 +34,54 @@
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="destinations" />
-          <item index="1" class="java.lang.String" itemvalue="q.unbind" />
-          <item index="2" class="java.lang.String" itemvalue="linkit" />
-          <item index="3" class="java.lang.String" itemvalue="linkitprofile" />
-          <item index="4" class="java.lang.String" itemvalue="administer panelizer taxonomy_term panopoly_categories breadc" />
-          <item index="5" class="java.lang.String" itemvalue="administer panelizer taxonomy_term panopoly_categories breadcrumbs" />
-          <item index="6" class="java.lang.String" itemvalue="select account cancellation method" />
-          <item index="7" class="java.lang.String" itemvalue="panopoly_categories" />
-          <item index="8" class="java.lang.String" itemvalue="bread" />
-          <item index="9" class="java.lang.String" itemvalue="breadcrumbs" />
-          <item index="10" class="java.lang.String" itemvalue="clean option" />
-          <item index="11" class="java.lang.String" itemvalue="panopoly_demo" />
-          <item index="12" class="java.lang.String" itemvalue="json2" />
-          <item index="13" class="java.lang.String" itemvalue="administer panelizer node expedition defaults" />
-          <item index="14" class="java.lang.String" itemvalue="administer panelizer node" />
-          <item index="15" class="java.lang.String" itemvalue="create panopoly_faq content" />
-          <item index="16" class="java.lang.String" itemvalue="delete any panopoly_faq content" />
-          <item index="17" class="java.lang.String" itemvalue="zegrahm_general" />
-          <item index="18" class="java.lang.String" itemvalue="user_default_permissions" />
-          <item index="19" class="java.lang.String" itemvalue="org-core" />
-          <item index="20" class="java.lang.String" itemvalue="core" />
-          <item index="21" class="java.lang.String" itemvalue="local" />
-          <item index="22" class="java.lang.String" itemvalue="default" />
-          <item index="23" class="java.lang.String" itemvalue="group_expedition_overview" />
-          <item index="24" class="java.lang.String" itemvalue="overview" />
-          <item index="25" class="java.lang.String" itemvalue="occupancy" />
-          <item index="26" class="java.lang.String" itemvalue="'file' =&gt; TRUE," />
-          <item index="27" class="java.lang.String" itemvalue="Add the file to the list of exportables" />
-          <item index="28" class="java.lang.String" itemvalue="add the term" />
-          <item index="29" class="java.lang.String" itemvalue="environment_indicator" />
+          <item index="0" class="java.lang.String" itemvalue="pane_info" />
+          <item index="1" class="java.lang.String" itemvalue="validate" />
+          <item index="2" class="java.lang.String" itemvalue="account_messages" />
+          <item index="3" class="java.lang.String" itemvalue="same" />
+          <item index="4" class="java.lang.String" itemvalue="field_att" />
+          <item index="5" class="java.lang.String" itemvalue="display an add to cart message" />
+          <item index="6" class="java.lang.String" itemvalue="_menu" />
+          <item index="7" class="java.lang.String" itemvalue="Cabin Selection" />
+          <item index="8" class="java.lang.String" itemvalue="field_ship" />
+          <item index="9" class="java.lang.String" itemvalue="cabin sele" />
+          <item index="10" class="java.lang.String" itemvalue="add to cart" />
+          <item index="11" class="java.lang.String" itemvalue="shuffle" />
+          <item index="12" class="java.lang.String" itemvalue="title" />
+          <item index="13" class="java.lang.String" itemvalue="birth" />
+          <item index="14" class="java.lang.String" itemvalue="__/__" />
+          <item index="15" class="java.lang.String" itemvalue="hear" />
+          <item index="16" class="java.lang.String" itemvalue="-&gt;field_hear_about" />
+          <item index="17" class="java.lang.String" itemvalue="field_email" />
+          <item index="18" class="java.lang.String" itemvalue="field_hear_about_us" />
+          <item index="19" class="java.lang.String" itemvalue="- Select -" />
+          <item index="20" class="java.lang.String" itemvalue="#default_value" />
+          <item index="21" class="java.lang.String" itemvalue="email_confirm" />
+          <item index="22" class="java.lang.String" itemvalue="d2_commerce_extras_profile_traveler_form_validate" />
+          <item index="23" class="java.lang.String" itemvalue="views" />
+          <item index="24" class="java.lang.String" itemvalue="dependencies[] = d2_personal" />
+          <item index="25" class="java.lang.String" itemvalue="dependencies[] = d2_optional" />
+          <item index="26" class="java.lang.String" itemvalue="edit_quantity" />
+          <item index="27" class="java.lang.String" itemvalue="checkout_panes" />
+          <item index="28" class="java.lang.String" itemvalue="argument_input" />
+          <item index="29" class="java.lang.String" itemvalue="panel_pane_1" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
-        <list size="2">
+        <list size="6">
           <item index="0" class="java.lang.String" itemvalue="zegrahm" />
           <item index="1" class="java.lang.String" itemvalue="zegrahm_" />
+          <item index="2" class="java.lang.String" itemvalue="field_full_map" />
+          <item index="3" class="java.lang.String" itemvalue="d2_widgets" />
+          <item index="4" class="java.lang.String" itemvalue="zegrahm_softrip_commerce" />
+          <item index="5" class="java.lang.String" itemvalue="zegrahm_commerce" />
         </list>
       </value>
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
-        <list size="7">
+        <list size="25">
           <item index="0" class="java.lang.String" itemvalue="/www/nas/gast/modules/block/tests/themes/block_test_theme" />
           <item index="1" class="java.lang.String" itemvalue="/www/nas/gast/sites/all/modules/commerce/modules/cart/includes/views" />
           <item index="2" class="java.lang.String" itemvalue="/www/nas/gast/sites/all/modules/commerce" />
@@ -89,6 +89,24 @@
           <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/www/nas/gast/sites/all/" />
           <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/www/nas/tui-core/sites/all/modules/tui_modules/7.x/tui_softrip" />
           <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/www/nas/tui-core" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/contrib/inline_entity_form" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/modules/rdf" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/d2_features/d2_softrip" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/zegrahm/zegrahm_migrate" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/custom" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/sites/all/modules/migrate_d2d" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/contrib/panopoly_core/images" />
+          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/themes/custom/zegrahm/sass" />
+          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino" />
+          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/custom/d2_fpp" />
+          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/custom/d2_panels_bg" />
+          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/includes" />
+          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/d2_features/d2_expedition" />
+          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/custom/tui_softrip" />
+          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/contrib/commerce" />
+          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/themes/custom/zegrahm/sass/components" />
+          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules" />
+          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/www/nae/domino/docroot/profiles/d2/modules/d2_features" />
         </list>
       </value>
     </option>
@@ -154,6 +172,11 @@
         <option value="/www/njord/matchupanalyzer" />
         <option value="/www/nas/travcoa" />
         <option value="$USER_HOME$/Repos/Travcoa" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/www/nae/domino" />
       </list>
     </option>
     <option name="names">
@@ -228,7 +251,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1414593914547" />
+    <option name="LAST_TIME_CHECKED" value="1423489956258" />
     <option name="LAST_BUILD_CHECKED" value="PS-133.982" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
@@ -282,15 +305,15 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="UsagesStatistic" time="1414422338503" allowed="true" show-notification="false" period="weekly">
+  <component name="UsagesStatistic" time="1423490555031" allowed="true" show-notification="false" period="weekly">
     <group id="Drupal Support" priority="0.0" data="Drupal_7=1" />
     <group id="JavaScript versions" priority="0.0" data="DEFAULT=17" />
     <group id="Look and Feel" priority="0.0" data="Mac OS X - Darcula=1" />
     <group id="UI Features" priority="0.0" data="Line Numbers=1,Toolbar hidden=1,Retina=1,Toolbar + NavBar=1,Tabs Top=1,Tool Window buttons visible=1,Nav Bar visible=1,Recent Files (30  50]=1,Status bar visible=1" />
     <group id="deployment server" priority="0.0" data="LOCAL=17" />
-    <group id="features counts" priority="0.0" data="execute.PhpWebAppRunConfigurationType.Debug=31,execute.PhpWebAppRunConfigurationType.Run=8,execute.JavascriptDebugType.Debug=5,execute.PhpRemoteDebugRunConfigurationType.Debug=31,CreateFile.CreateFileAction=17" />
-    <group id="file-type" priority="0.0" data="ARCHIVE=4,CSS=15,XML=17,Native=10,SQL=14,HTML=16,PHP=17,ASP=5,PATCH=9,YAML=5,htaccess=16,JSON=10,PLAIN_TEXT=16,Ini=15,Locale=15,JavaScript=15,UNKNOWN=17,Images=16,SmartyConfig=4,ReST=2,SCSS=4,JSHint=4,Perl=2,JSP=1,Twig=1,TypeScript=1,PHAR=0,C++=1,Smarty=1,CoffeeScript=2,Cucumber=2,Markdown=3,SourceMap=1,Bash=2" />
+    <group id="features counts" priority="0.0" data="execute.PhpWebAppRunConfigurationType.Debug=31,execute.PhpWebAppRunConfigurationType.Run=8,execute.JavascriptDebugType.Debug=5,execute.PhpRemoteDebugRunConfigurationType.Debug=37,CreateFile.CreateFileAction=48" />
+    <group id="file-type" priority="0.0" data="ARCHIVE=4,CSS=15,XML=17,Native=10,SQL=14,HTML=16,PHP=17,ASP=5,PATCH=9,YAML=5,htaccess=16,JSON=10,PLAIN_TEXT=16,Ini=15,Locale=15,JavaScript=15,UNKNOWN=17,Images=16,SmartyConfig=4,ReST=2,SCSS=4,JSHint=4,Perl=2,JSP=1,Twig=1,TypeScript=1,PHAR=0,C++=1,Smarty=1,CoffeeScript=2,Cucumber=2,Markdown=3,SourceMap=1,Bash=2,Gitignore file=1,DTD=1,Npmignore file=1,LESS=1" />
     <group id="javaScript Scope Usages" priority="0.0" data="Project=34" />
     <group id="module type" priority="0.0" data="WEB_MODULE=17" />
-    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1,net.nicoulaj.idea.markdown=1,BashSupport=1" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1,net.nicoulaj.idea.markdown=1,BashSupport=1,mobi.hsz.idea.gitignore=1" />
     <group id="php-debug-skipped-paths" priority="0.0" data="0=17" />
     <group id="php-file-type-associations" priority="0.0" data="*.install=1,*.profile=1" />
     <group id="php-include-path" priority="0.0" data="1=4,0=9,2=4" />
     <group id="php-interpreter-version" priority="0.0" data="not installed=17" />
     <group id="php-interpreters" priority="0.0" data="0=17" />
     <group id="php-server-debug-ext" priority="0.0" data="xdebug=7" />
-    <group id="php-servers" priority="0.0" data="0=6,2=3,1=7,3=0,5=0,6=1" />
-    <group id="productivity" priority="0.0" data="navigation.popup.file=6,editing.completion.finishByCtrlDot=2,navigation.goto.declaration=232,navigation.popup.class=5,editing.completion.basic=829,editing.select.word=911,ui.tree.speedsearch=68,editing.completion.camelHumps=29,editing.completion.finishByControlEnter=674,navigation.popup.camelprefix=6,SearchEverywhere=495,navigation.recent.files=4,editing.completion.replace=3,codeassists.comment.line=211,refactoring.rename=9,navigation.popup.symbol=3,ui.scheme.quickswitch=2,codeassists.quickdefinition=1" />
-    <group id="run-configuration-type" priority="0.0" data="PhpRemoteDebugRunConfigurationType=2,PhpWebAppRunConfigurationType=1" />
+    <group id="php-servers" priority="0.0" data="0=5,2=4,1=7,3=0,5=0,6=1" />
+    <group id="productivity" priority="0.0" data="navigation.popup.file=10,editing.completion.finishByCtrlDot=2,navigation.goto.declaration=293,navigation.popup.class=8,editing.completion.basic=1210,editing.select.word=1110,ui.tree.speedsearch=80,editing.completion.camelHumps=75,editing.completion.finishByControlEnter=985,navigation.popup.camelprefix=10,SearchEverywhere=917,navigation.recent.files=4,editing.completion.replace=4,codeassists.comment.line=395,refactoring.rename=45,navigation.popup.symbol=5,ui.scheme.quickswitch=2,codeassists.quickdefinition=1" />
+    <group id="run-configuration-type" priority="0.0" data="PhpRemoteDebugRunConfigurationType=3,PhpWebAppRunConfigurationType=1" />
     <group id="run-configuration-type-temp" priority="0.0" data="JavascriptDebugType=1" />
     <group id="user.os.name" priority="0.0" data="Mac OS X=1" />
-    <group id="user.os.version" priority="0.0" data="Mac OS X 10.9.2=0,Mac OS X 10.9.3=0,Mac OS X 10.9.4=0,Mac OS X 10.10=1" />
-    <group id="vcs" priority="0.0" data="Git=14" />
+    <group id="user.os.version" priority="0.0" data="Mac OS X 10.9.2=0,Mac OS X 10.9.3=0,Mac OS X 10.9.4=0,Mac OS X 10.10=0,Mac OS X 10.10.1=0,Mac OS X 10.10.2=1" />
+    <group id="vcs" priority="0.0" data="Git=15" />
   </component>
 </application>
 

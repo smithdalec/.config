@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="FileDocumentManager.FileCacheConflict.0.0.1440.900" x="407" y="211" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="627" y="773" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="648" y="464" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="751" y="279" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1440.900" x="465" y="295" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="698" y="293" />
     <location key="DiffWindow.0.0.1920.1080" x="100" y="100" />
@@ -12,9 +16,9 @@
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="300" />
     <location key="NewPhpFileDialog.0.0.1920.1080" x="779" y="471" />
     <location key="NewPhpFileDialog.0.0.1440.900" x="539" y="381" />
-    <location key="MultipleFileMergeDialog.0.0.1440.900" x="419" y="195" />
+    <location key="MultipleFileMergeDialog.0.0.1440.900" x="386" y="264" />
     <location key="PhpDebugProjectChooserDialog.0.0.1440.900" x="558" y="270" />
-    <location key="findTextDialog.0.0.1920.1080" x="740" y="304" />
+    <location key="findTextDialog.0.0.1920.1080" x="923" y="483" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="424" y="201" />
     <location key="#Servers.0.0.1920.1080" x="547" y="201" />
     <location key="#com.jetbrains.php.config.servers.PhpEnvironmentValidationDialog#.0.0.1920.1080" x="682" y="366" />
@@ -47,19 +51,19 @@
     <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="300" />
     <location key="OptionsEditor.0.0.1440.900" x="50" y="71" />
     <location key="#Notifications.0.0.1440.900" x="482" y="215" />
-    <location key="DiffWindow.0.0.1440.900" x="100" y="100" />
+    <location key="DiffWindow.0.0.1440.900" x="68" y="89" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="461" y="365" />
     <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1440.900" x="467" y="303" />
     <location key="#Interpreters.0.0.1440.900" x="313" y="91" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="111" />
     <location key="PhpDebugFileChooserDialog.0.0.1440.900" x="558" y="248" />
-    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1440.900" x="222" y="208" />
-    <location key="#com.jetbrains.php.config.servers.PhpEnvironmentValidationDialog#.0.0.1440.900" x="253" y="422" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1440.900" x="198" y="208" />
+    <location key="#com.jetbrains.php.config.servers.PhpEnvironmentValidationDialog#.0.0.1440.900" x="276" y="415" />
     <location key="#Deployment.0.0.1440.900" x="313" y="91" />
     <location key="#xdebugger.evaluate.0.0.1440.900" x="546" y="199" />
     <location key="#xdebugger.XInspectDialog.0.0.1440.900" x="391" y="61" />
     <location key="#settings.php.0.0.1440.900" x="459" y="145" />
-    <location key="findTextDialog.0.0.1440.900" x="500" y="214" />
+    <location key="findTextDialog.0.0.1440.900" x="280" y="219" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="533" y="186" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="411" y="255" />
     <location key="RegExHelpPopup.0.0.1440.900" x="322" y="195" />
@@ -69,16 +73,21 @@
     <location key="CommitChangelistDialog2.0.0.1920.1080" x="614" y="251" />
     <location key="FileChooserDialogImpl.0.0.1920.1080" x="747" y="287" />
     <location key="PhpMappingAdvancedResolveDialog.0.0.1920.1080" x="711" y="440" />
+    <location key="#Compass_Support.0.0.1440.900" x="178" y="337" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="659" y="285" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1440.900" x="408" y="374" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="808" height="101" />
+    <size key="findTextDialog.0.0.1440.900" width="412" height="471" />
     <size key="DiffWindow.0.0.1920.1080" width="1720" height="880" />
     <size key="DebuggerActiveHint.0.0.1920.1080" width="445" height="430" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="401" height="1009" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="401" height="1009" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="401" height="1009" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="401" height="1009" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="401" height="1009" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="401" height="1009" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="401" height="1009" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="401" height="1009" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="508" height="1009" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="508" height="1009" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="508" height="1009" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="508" height="1009" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="508" height="1009" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="508" height="1009" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="508" height="1009" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="508" height="1009" />
     <size key="dock-window-1.0.0.1440.900" width="1408" height="335" />
     <size key="dock-window-2.0.0.1440.900" width="1405" height="299" />
     <size key="GridCell.Tab.3.bottom.0.0.1440.900" width="1405" height="283" />
@@ -93,14 +102,14 @@
     <size key="PhpMappingAdvancedResolveDialog.0.0.1440.900" width="749" height="352" />
     <size key="DiffWindow.0.0.1440.900" width="1240" height="700" />
     <size key="OptionsEditor.0.0.1440.900" width="1382" height="807" />
-    <size key="GridCell.Tab.0.left.0.0.1440.900" width="355" height="829" />
-    <size key="GridCell.Tab.0.center.0.0.1440.900" width="355" height="829" />
-    <size key="GridCell.Tab.0.right.0.0.1440.900" width="355" height="829" />
-    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="355" height="829" />
-    <size key="GridCell.Tab.1.left.0.0.1440.900" width="355" height="829" />
-    <size key="GridCell.Tab.1.center.0.0.1440.900" width="355" height="829" />
-    <size key="GridCell.Tab.1.right.0.0.1440.900" width="355" height="829" />
-    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="355" height="829" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="508" height="829" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="508" height="829" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="508" height="829" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="508" height="829" />
+    <size key="GridCell.Tab.1.left.0.0.1440.900" width="508" height="829" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="508" height="829" />
+    <size key="GridCell.Tab.1.right.0.0.1440.900" width="508" height="829" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="508" height="829" />
     <size key="GridCell.Tab.2.left.0.0.1440.900" width="471" height="829" />
     <size key="GridCell.Tab.2.center.0.0.1440.900" width="471" height="829" />
     <size key="GridCell.Tab.2.right.0.0.1440.900" width="471" height="829" />
@@ -111,6 +120,8 @@
     <size key="PhpMappingAdvancedResolveDialog.0.0.1920.1080" width="654" height="197" />
     <size key="#xdebugger.XInspectDialog.0.0.1440.900" width="744" height="644" />
     <size key="javadoc.popup.0.0.1440.900" width="600" height="419" />
+    <size key="#Compass_Support.0.0.1440.900" width="1002" height="160" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.1920.1080" width="300" height="300" />
     <extendedState key="DiffWindow" state="0" />
   </component>
   <component name="LafManager">

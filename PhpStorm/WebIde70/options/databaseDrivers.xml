@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="LocalDatabaseDriverManager">
+    <driver id="db2" name="DB2" dialect="DB2">
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    </driver>
+    <driver id="derby" name="Derby" dialect="Derby">
+      <driver id="derby.remote" name="Remote" />
+      <driver id="derby.embedded" name="Embedded" />
+    </driver>
+    <driver id="sqlserver" name="SQL Server" dialect="TSQL">
+      <driver id="sqlserver.jtds" name="jTDS" />
+      <driver id="sqlserver.ms" name="Microsoft" />
+    </driver>
+    <driver id="sybase" name="Sybase" dialect="Sybase">
+      <driver id="sybase.jtds" name="jTDS" />
+      <driver id="sybase.ase" name="Native" />
+    </driver>
+    <driver id="mysql" name="MySQL" dialect="MySQL">
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+    </driver>
+    <driver id="oracle" name="Oracle" dialect="Oracle" />
+    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL" />
+    <driver id="hsqldb" name="HSQLDB" dialect="HSQLDB">
+      <driver id="hsqldb.remote" name="Remote" />
+      <driver id="hsqldb.embedded" name="Embedded" />
+    </driver>
+    <driver id="h2" name="H2" dialect="H2">
+      <driver id="h2.remote" name="Remote" />
+      <driver id="h2.embedded" name="Embedded" />
+    </driver>
+    <driver id="sqlite" name="SQLite" dialect="SQLite">
+      <driver id="sqlite.xerial" name="Xerial" />
+      <driver id="sqlite.zentus" name="Zentus" />
+    </driver>
+    <driver id="odbc.sun" name="ODBC" />
+  </component>
+</application>
+
