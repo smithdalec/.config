@@ -4,6 +4,8 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChooseDebugConfiguration" />
+  <action id="ChooseRunConfiguration" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta W" />
   </action>
@@ -18,10 +20,7 @@
   <action id="CompareTwoFiles" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.ShowDiff" />
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="control D" />
-    <keyboard-shortcut first-keystroke="meta D" />
-  </action>
+  <action id="Debug" />
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
@@ -42,6 +41,7 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta ADD" />
   </action>
+  <action id="ForceStepOver" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
@@ -69,10 +69,14 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta SUBTRACT" />
   </action>
+  <action id="NextDiff" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
     <keyboard-shortcut first-keystroke="control RIGHT" />
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+  </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="meta D" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta OPEN_BRACKET" />
@@ -87,10 +91,20 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt R" />
     <keyboard-shortcut first-keystroke="meta R" />
+    <keyboard-shortcut first-keystroke="F8" />
+  </action>
+  <action id="Run" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="shift F9" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="F7" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="F9" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta F2" />
-    <keyboard-shortcut first-keystroke="shift meta D" />
+    <keyboard-shortcut first-keystroke="shift F8" />
     <keyboard-shortcut first-keystroke="shift meta R" />
   </action>
   <action id="SwitchApply">
@@ -109,7 +123,7 @@
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
   <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="meta F8" />
+    <keyboard-shortcut first-keystroke="meta BACK_SLASH" />
     <keyboard-shortcut first-keystroke="meta T" />
   </action>
   <action id="Uml.ShowDiff" />
