@@ -12,3 +12,6 @@ PhpStorm/WebIde70/phpstorm70.key
 PhpStorm/WebIde70/options/*statistics*
 PhpStorm/WebIde70/options/options.xml
 PhpStorm/WebIde70/options/other.xml
+PhpStorm/WebIde70/options/appComponentVersions.xml
+PhpStorm/WebIde70/options/runner.layout.xml
+PhpStorm/*cache*
