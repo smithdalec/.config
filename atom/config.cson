@@ -8,18 +8,19 @@
   metrics:
     userId: "1700169c6023c5ee56c3181474ae329fec6ad030"
   editor:
-    fontFamily: "monaco"
-    fontSize: 12
     showIndentGuide: true
-    nonWordCharacters: "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?-"
     softWrap: true
+    nonWordCharacters: "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?-"
+    fontSize: 12
+    fontFamily: "monaco"
+    invisibles: {}
   core:
-    disabledPackages: [
-      "autocomplete-plus"
-    ]
     themes: [
       "atom-dark-ui-slim"
       "monokai"
+    ]
+    disabledPackages: [
+      "autocomplete-plus"
     ]
   drupal:
     fileTypesPhp: "module,install,inc,test"
@@ -33,3 +34,6 @@
     updated: false
   whitespace:
     removeTrailingWhitespace: false
+  "atom-beautify":
+    _analyticsUserId: "e8edd4e2-cb97-408a-b7f8-a72a6f2ef723"
+  linter: {}

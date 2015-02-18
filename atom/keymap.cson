@@ -18,3 +18,10 @@
 #
 '.editor:not(.mini)':
   'cmd-e': 'editor:delete-line'
+
+'atom-workspace atom-text-editor:not([mini])':
+  'shift-cmd-down': 'editor:move-line-down'
+  'shift-cmd-up': 'editor:move-line-up'
+  
+'body':
+  'shift-ctrl-up': 'core:select-to-top'
