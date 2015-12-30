@@ -1,7 +1,7 @@
 set fish_color_autosuggestion 555
 set fish_color_command blue
 set fish_color_comment red
-set fish_color_cwd yellow
+set fish_color_cwd green
 set fish_color_cwd_root red
 set fish_color_error red
 set fish_color_escape cyan
@@ -53,7 +53,7 @@ function fish_prompt --description 'Write out the prompt'
   echo -n (prompt_pwd)
   set_color normal
 
-  __terlar_git_prompt
+  __fish_git_prompt
   echo
 
   if not test $last_status -eq 0
