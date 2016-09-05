@@ -2,6 +2,8 @@
 [core]
 	editor = vim
 	pager = less -F -X
+	autocrlf = input
+	mergeoptions = --no-edit
 [user]
 	name = Dale Smith
 	email = smithdalec@gmail.com
@@ -66,9 +68,12 @@
 	td = tag -d
 	unstage = reset HEAD --
 	up = push origin
+	ups = push --set-upstream origin
 [push]
 	default = tracking
 [filter "media"]
 	clean = git media clean %f
 	smudge = git media smudge %f
 	required = true
+[url "https://github.com/"]
+	insteadOf = git://github.com/
