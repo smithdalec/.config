@@ -1,39 +1,82 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6c74370e-5d29-4a0f-b933-de730f443aeb"
+  "atom-material-ui":
+    colors:
+      abaseColor:
+        red: 96
+        green: 125
+        blue: 139
+        alpha: 1
+      predefinedColor: "Blue Grey"
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+  autosave:
+    enabled: true
+  core:
+    disabledPackages: [
+      "quick-query"
+      "quick-query-mssql"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/dalesmith/www"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 11
+    invisibles: {}
+    preferredLineLength: 120
+    showIndentGuide: true
   "exception-reporting":
-    userId: "c0ec0583-83e9-09fc-e94a-b0eaeb6c0a81"
-  "release-notes":
-    viewedVersion: "0.95.0"
+    userId: "e60beb23-da53-c25a-5abc-9a40e076e123"
+  jshint:
+    onlyConfig: true
+  linter: {}
+  "linter-eslint": {}
+  "linter-jscs":
+    displayAs: "warning"
+    onlyConfig: true
+    preset: "node-style-guide"
+  "merge-conflicts": {}
+  minimap:
+    absoluteMode: true
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+  "node-debugger":
+    debugPort: 5858
+    nodePath: "/usr/local/bin/node"
+  "one-dark-ui": {}
+  "save-session":
+    dataSaveFolder: "/Users/dalesmith/.atom/packages/save-session/projects"
+  "tree-view":
+    squashDirectoryNames: true
   welcome:
     showOnStartup: false
-  metrics:
-    userId: "1700169c6023c5ee56c3181474ae329fec6ad030"
+".angular.html.text":
   editor:
+    preferredLineLength: 120
+".basic.html.text":
+  editor:
+    preferredLineLength: 120
+".js.regexp.replacement.source":
+  editor:
+    preferredLineLength: 120
+".js.regexp.source":
+  editor:
+    preferredLineLength: 120
+".js.source":
+  editor:
+    preferredLineLength: 120
     showIndentGuide: true
-    softWrap: true
-    nonWordCharacters: "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?-"
-    fontSize: 12
-    fontFamily: "monaco"
-    invisibles: {}
-  core:
-    themes: [
-      "atom-dark-ui-slim"
-      "monokai"
-    ]
-    disabledPackages: [
-      "autocomplete-plus"
-    ]
-  drupal:
-    fileTypesPhp: "module,install,inc,test"
-  "php-checkstyle":
-    phpcsStandard: "Drupal"
-    phpcsExecutablePath: "/Applications/MAMP/bin/php/php5.3.27/bin/phpcs"
-    phpPath: "/Applications/MAMP/bin/php/php5.3.27/bin/php"
-    shouldExecutePhpcs: false
-    shouldExecutePhpmd: false
-  "recent-files":
-    updated: false
-  whitespace:
-    removeTrailingWhitespace: false
-  "atom-beautify":
-    _analyticsUserId: "e8edd4e2-cb97-408a-b7f8-a72a6f2ef723"
-  linter: {}
+    tabLength: 4
+".json.source":
+  editor:
+    preferredLineLength: 120

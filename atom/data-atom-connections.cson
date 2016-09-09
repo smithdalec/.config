@@ -1,0 +1,12 @@
+[
+  {
+    name: "Azure - Local"
+    protocol: "sqlserver"
+    user: "azadmin"
+    password: "Community559"
+    server: "c1labs-localdev-dale.database.windows.net"
+    database: ""
+    options: "encrypt=true"
+    port: "1433"
+  }
+]

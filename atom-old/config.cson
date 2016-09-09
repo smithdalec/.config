@@ -1,0 +1,39 @@
+"*":
+  "exception-reporting":
+    userId: "c0ec0583-83e9-09fc-e94a-b0eaeb6c0a81"
+  "release-notes":
+    viewedVersion: "0.95.0"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "1700169c6023c5ee56c3181474ae329fec6ad030"
+  editor:
+    showIndentGuide: true
+    softWrap: true
+    nonWordCharacters: "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?-"
+    fontSize: 12
+    fontFamily: "monaco"
+    invisibles: {}
+  core:
+    themes: [
+      "atom-dark-ui-slim"
+      "monokai"
+    ]
+    disabledPackages: [
+      "autocomplete-plus"
+    ]
+  drupal:
+    fileTypesPhp: "module,install,inc,test"
+  "php-checkstyle":
+    phpcsStandard: "Drupal"
+    phpcsExecutablePath: "/Applications/MAMP/bin/php/php5.3.27/bin/phpcs"
+    phpPath: "/Applications/MAMP/bin/php/php5.3.27/bin/php"
+    shouldExecutePhpcs: false
+    shouldExecutePhpmd: false
+  "recent-files":
+    updated: false
+  whitespace:
+    removeTrailingWhitespace: false
+  "atom-beautify":
+    _analyticsUserId: "e8edd4e2-cb97-408a-b7f8-a72a6f2ef723"
+  linter: {}
