@@ -36,6 +36,7 @@
 	cian = commit --amend --no-edit
 	co = checkout
 	com = checkout master
+	cob = checkout -b
 	contains = branch -avv --contains
 	d = diff --word-diff=color
 	di = diff --staged --word-diff=color
@@ -70,7 +71,7 @@
 	up = push origin
 	ups = push --set-upstream origin
 [push]
-	default = tracking
+	default = current
 [filter "media"]
 	clean = git media clean %f
 	smudge = git media smudge %f
